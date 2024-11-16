@@ -1,4 +1,4 @@
-# Building Setback Lines (BSLs) play a critical role in property ownership with the Buyers, sellers, and property owners, ensuring that structures comply with zoning laws and contribute to safe and orderly development.
+## Building Setback Lines (BSLs) play a critical role in property ownership with the Buyers, sellers, and property owners, ensuring that structures comply with zoning laws and contribute to safe and orderly development.
 
 ### **Building Setback Lines (BSL)**
 
